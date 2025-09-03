@@ -2,8 +2,9 @@
 
 A sleek and responsive developer portfolio built with React and Tailwind CSS, featuring smooth animations, elegant effects, and a clean modern design to showcase your skills and projects professionally.
 
-![Screenshot](https://raw.githubusercontent.com/maxzaw83/maxzaw/refs/heads/main/public/images/JobTrackerScreen1.png))
+![Screenshot](https://raw.githubusercontent.com/maxzaw83/maxzaw/refs/heads/main/public/images/JobTrackerScreen1.png)
 
+![Screenshot](https://raw.githubusercontent.com/maxzaw83/maxzaw/refs/heads/main/public/images/JobTrackerScreen2.png)
 ## 🛠️ Features
 
 - 📱 Fully responsive design (mobile-first)
